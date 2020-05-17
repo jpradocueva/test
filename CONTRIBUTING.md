@@ -1,6 +1,12 @@
 ### IoT Connectivity Tasks Flow
 <table>
     <thead>
+         <tr>
+            <th></th>
+            <th colspan="5">1st Week</th>
+            <th colspan="5">2nd Week</th>
+            <th colspan="5">3rd Week</th>
+        </tr>
         <tr>
             <th>Tasks</th>
             <!-- 1st week -->
