@@ -1,6 +1,10 @@
 # Comparing Markup Languages
 
 ## ASCII Text
+### Example Title
+
+== Heading 2
+
 ### Example Table 1
 
 [cols=2*]
@@ -35,6 +39,15 @@ performance, portability.
 ## Restructered Text 
 See example in [online reStructuredText Editor](http://rst.ninjs.org/#RXhhbXBsZSAxCgo9PT09PSAgPT09PT0gID09PT09PQogICBJbnB1dHMgICAgIE91dHB1dAotLS0tLS0tLS0tLS0gIC0tLS0tLQogIEEgICAgICBCICAgIEEgb3IgQgo9PT09PSAgPT09PT0gID09PT09PQpGYWxzZSAgRmFsc2UgIEZhbHNlClRydWUgICBGYWxzZSAgVHJ1ZQpGYWxzZSAgVHJ1ZSAgIFRydWUKVHJ1ZSAgIFRydWUgICBUcnVlCj09PT09ICA9PT09PSAgPT09PT09CgpFeGFtcGxlIDIKCistLS0tLS0tLS0tLS0rLS0tLS0tLS0tLS0tKy0tLS0tLS0tLS0tKwp8IEhlYWRlciAxICAgfCBIZWFkZXIgMiAgIHwgSGVhZGVyIDMgIHwKKz09PT09PT09PT09PSs9PT09PT09PT09PT0rPT09PT09PT09PT0rCnwgYm9keSByb3cgMSB8IGNvbHVtbiAyICAgfCBjb2x1bW4gMyAgfAorLS0tLS0tLS0tLS0tKy0tLS0tLS0tLS0tLSstLS0tLS0tLS0tLSsKfCBib2R5IHJvdyAyIHwgQ2VsbHMgbWF5IHNwYW4gY29sdW1ucy58CistLS0tLS0tLS0tLS0rLS0tLS0tLS0tLS0tKy0tLS0tLS0tLS0tKwp8IGJvZHkgcm93IDMgfCBDZWxscyBtYXkgIHwgLSBDZWxscyAgIHwKKy0tLS0tLS0tLS0tLSsgc3BhbiByb3dzLiB8IC0gY29udGFpbiB8CnwgYm9keSByb3cgNCB8ICAgICAgICAgICAgfCAtIGJsb2Nrcy4gfAorLS0tLS0tLS0tLS0tKy0tLS0tLS0tLS0tLSstLS0tLS0tLS0tLSs=)
 
+### Example Title
+
+=====
+Title
+=====
+
+Subtitle
+--------
+
 ### Example Table 3
 Grid table:
 
@@ -63,6 +76,9 @@ True   True   True
 =====  =====  ======
 
 ## GitHub Markdown Flavor 
+### Example Title
+
+## Title
 
 ### Example Table 5
 
