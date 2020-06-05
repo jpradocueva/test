@@ -49,6 +49,19 @@ Subtitle
 --------
 
 ### Example Table 3
+
+=====  =====  ======
+   Inputs     Output
+------------  ------
+  A      B    A or B
+=====  =====  ======
+False  False  False
+True   False  True
+False  True   True
+True   True   True
+=====  =====  ======
+
+### Example Table 4
 Grid table:
 
 +------------+------------+-----------+
@@ -63,17 +76,6 @@ Grid table:
 | body row 4 |            | - blocks. |
 +------------+------------+-----------+
 
-### Example Table 4
-=====  =====  ======
-   Inputs     Output
-------------  ------
-  A      B    A or B
-=====  =====  ======
-False  False  False
-True   False  True
-False  True   True
-True   True   True
-=====  =====  ======
 
 ## GitHub Markdown Flavor 
 ### Example Title
